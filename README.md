@@ -31,13 +31,17 @@ Three-point shooting: The majority of players have a 20-45% accuracy, with outli
 Offensive players:
 
 Shai Gilgeous-Alexander (OKC) – Best in true shooting % (0.644), highest usage (34.5%) and top efficiency score.
+
 Jayson Tatum (BOS) – Balanced inside and outside scoring with nearly equal two-point (582) and three-point (585) attempts.
+
 Anthony Edwards & Cade Cunningham – High-volume scorers with different shot distributions.
 
 Defensive players:
 
 Victor Wembanyama (SAS) – 3.8 blocks per game, dominating shot-blocker.
+
 Nikola Jokić (DEN) – Highest steals per game (1.8), elite defensive rebounder.
+
 Anthony Davis (LAL) – Strong two-way player with 1.3 steals & 2.1 blocks per game.
 
 4️⃣ Ranking the Best Players
